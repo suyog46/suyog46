@@ -5,7 +5,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 - I get curious to dive more into the topic:)
 
 
-### Familiar Languages
+### Familiar Skills
 
 
 <p align="left">
