@@ -1,6 +1,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-### I am Suyog 
+---
+ I am Suyog 
 ====================================================================================================================================
  I'm an enthusiastic learner  and I am basically into exploring the new things and unknown. Whether it's mastering backend and frontend development, experimenting with AI, or understanding hardware integration, I'm always eager to expand my skill set. Beyond tech, I have a passion for sports, music, and art, which keep me creative and balanced. Let's connect and learn together!"
 
