@@ -1,8 +1,7 @@
 
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)I am Suyog 
 ====================================================================================================================================
-- 👀 I am into  learning new things.
-- I get curious to dive more into the topic:)
+ I'm an enthusiastic learner  and I am basically into exploring the new things and unknown. Whether it's mastering backend and frontend development, experimenting with AI, or understanding hardware integration, I'm always eager to expand my skill set. Beyond tech, I have a passion for sports, music, and art, which keep me creative and balanced. Let's connect and learn together!"
 
 
 ### Familiar programming Languages
@@ -19,8 +18,3 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 
 
-<b>My GitHub Stats</b>
-
-
-
-<a href="https://github.com/suyog46" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=suyog46&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
